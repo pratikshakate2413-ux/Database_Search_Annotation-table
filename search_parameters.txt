@@ -1,0 +1,9 @@
+Task: Database Search and Annotation
+
+Tool: NCBI BLAST
+Program: BLASTN
+Query Accession: NC_045512.2
+Organism: SARS-CoV-2
+Database: Nucleotide collection (nr/nt)
+Query Length: 29903 bp
+Organism Filter: None
